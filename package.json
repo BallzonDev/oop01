@@ -1,0 +1,13 @@
+{
+  "name": "assignment1",
+  "version": "1.0.0",
+  "description": "Assignment 1 TypeScript examples",
+  "scripts": {
+    "build": "tsc",
+    "start:assign1_1": "node dist/assign1_1.js",
+    "start:assign1_2": "node dist/assign1_2.js"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.0"
+  }
+}
